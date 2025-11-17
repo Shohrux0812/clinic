@@ -1,0 +1,3 @@
+[submodule "clinic_system"]
+	path = clinic_system
+	url = https://github.com/Shohrux0812/clinic_system.git
